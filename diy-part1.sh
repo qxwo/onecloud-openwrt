@@ -20,4 +20,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo "src-git cups https://github.com/apple/cups.git" >> feeds.conf.default
 # git clone https://github.com/sbwml/luci-app-alist package/alist
 git clone https://github.com/rufengsuixing/luci-app-onliner package/onliner
-git clone  https://github.com/Mythologyli/Xp-58-Tool.git package/Xp-58-Tool
+git clone https://github.com/Mythologyli/Xp-58-Tool.git package/Xp-58-Tool
